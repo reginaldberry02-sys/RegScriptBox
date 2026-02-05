@@ -1,7 +1,7 @@
-# RegScriptBox Constitutions
+# CodePartsWarehouse Constitutions
 
 1) Purpose
-1.1) This document is the single source of truth for identity, lineage, metadata, and registry standards in RegScriptBox.
+1.1) This document is the single source of truth for identity, lineage, metadata, and registry standards in CodePartsWarehouse.
 
 2) Glossary
 2.1) CID = Category ID (human-readable classification)
