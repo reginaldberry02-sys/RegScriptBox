@@ -182,3 +182,5 @@ cython_debug/
 .DS_Store
 
 modules/registry/registry.sqlite
+
+modules/registry/*.sqlite*
